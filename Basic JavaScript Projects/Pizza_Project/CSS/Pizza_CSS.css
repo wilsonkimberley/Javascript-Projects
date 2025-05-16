@@ -1,0 +1,82 @@
+/* Pizza.css */
+
+#menuBG {
+  width: 600px;
+  height: 470px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#frmMenu {
+    width: 600px;
+    height: 200px
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: right;
+}
+
+.left {
+    width:200px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    width:200px;
+    height: 200px;
+    float: right;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    width: 600px;
+    height: 200px;
+    margin: 0px auto;
+}
+
+#btnOrder {
+  margin: 10px auto;
+  width: 120px;
+  height: 40px;
+  display: block;
+}
+
+/* Set background color for the body */
+body {
+  background-color: #f2f2f2; /* Light gray background for readability */
+}
+
+/* Style for all <h1> elements */
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: #cc0000; /* A pizza-themed red */
+}
+
+/* Style for all <h3> elements */
+h3 {
+  font-family: 'Verdana', sans-serif;
+  color: #333333; /* Dark gray */
+}
+
+/* Style for all <div> elements */
+div {
+  font-family: 'Tahoma', sans-serif;
+  color: #444444; /* Slightly lighter dark gray */
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
